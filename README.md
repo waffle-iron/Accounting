@@ -1,4 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/indigo-dc/Accounting.png?label=ready&title=Ready)](https://waffle.io/indigo-dc/Accounting)
+[![Stories in Ready](https://badge.waffle.io/indigo-dc/Accounting.png?label=ready&title=Ready)](https://waffle.io/indigo-dc/Accounting)
 # REST API for APEL
 [![Build Status](https://travis-ci.org/apel/rest.svg?branch=dev)](https://travis-ci.org/apel/rest)
 [![Coverage Status](https://coveralls.io/repos/github/apel/rest/badge.svg?branch=dev)](https://coveralls.io/github/apel/rest?branch=dev)
